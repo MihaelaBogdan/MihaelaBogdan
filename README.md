@@ -2,24 +2,12 @@
 
 <div align="center">
 
-
-
-
-
 <a href="https://www.linkedin.com/in/mihaela-bogdan-a558bb2b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:mihaelabogdan100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
 
 </div>
 
 <br>
-
-
-
-
-
-
-
 
 ##  Projects
 
@@ -27,10 +15,10 @@
 |---|---|---|
 |  **[CityScape](https://github.com/MihaelaBogdan/CityScape)** | *Bachelor's thesis.* AI + AR urban navigation: chatbot recommendations, smart itineraries, AR points of interest, social feed | `Android` `Java` `Flask` `PyTorch` `Gemini` `Supabase` |
 |  **Annealis** | *Decisions by agents, checked by math.* Plain English → QUBO → classical + quantum (QAOA) solvers → a decision verified against a proven optimum | `Python` `Claude API` `NumPy` `QAOA` |
+|  **[Energy Sentiment Analyser]** | NLP pipeline scoring sentiment in energy-market news and reports, with an interactive dashboard | `Python` `Streamlit` `NLP` |
 |  **Data Engineering Tool** | End-to-end platform for ETL and analytics workflows | `Python` `Streamlit` |
 |  **Stock Analysis App** | Data-driven platform for real-time financial insights | `Python` |
 |  **OffiSeat** | Smart seat-booking system for hybrid offices | `Spring Boot` `Angular` `MySQL` |
-|  **Kanban Board Simulator** | Real-time task flow and team collaboration platform | `JavaScript` `Spring Boot` `Angular` `OracleSQL` |
 |  **M3 Glow** | Personalized beauty and skincare recommender system | `Java` `Android` |
 
 
@@ -64,6 +52,7 @@
 ![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-EB6834?style=flat-square)
 ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-EDA100?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-E87BA4?style=flat-square)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment_Analysis-1BAF7A?style=flat-square)
 
 
 **Vector search & RAG infrastructure**
@@ -130,8 +119,6 @@
 ---
 
 <div align="center">
-
-
 
 </div>
 

@@ -56,17 +56,15 @@
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-0A0A0A?style=for-the-badge)
-![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Patterns I build with**
 
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-4A3AA7?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-2A78D6?style=flat-square)
-![Tool Use](https://img.shields.io/badge/Tool_Use_&_Function_Calling-1BAF7A?style=flat-square)
 ![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-EB6834?style=flat-square)
 ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-EDA100?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-E87BA4?style=flat-square)
-![Evals](https://img.shields.io/badge/Evals_&_Guardrails-D03B3B?style=flat-square)
+
 
 **Vector search & RAG infrastructure**
 

@@ -76,12 +76,6 @@
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-**Quantum computing**
-
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-00B1A4?style=flat-square)
-![D-Wave Ocean](https://img.shields.io/badge/D--Wave_Ocean-008CD7?style=flat-square)
-![QAOA](https://img.shields.io/badge/QAOA_&_QUBO-4A3AA7?style=flat-square)
 
 </div>
 

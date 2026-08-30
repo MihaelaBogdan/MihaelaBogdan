@@ -4,14 +4,9 @@
 
 # Mihaela Bogdan
 
-### Software engineer building AI agent systems
 
-**LLM pipelines that do real work — and check their own answers.**
-
-`AI & agents` · `mobile + AR` · `full-stack` · `quantum optimisation`
 
 <a href="https://www.linkedin.com/in/mihaela-bogdan-a558bb2b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/MihaelaBogdan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:mihaelabogdan100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://komarev.com/ghpvc/?username=MihaelaBogdan&style=for-the-badge&color=4A3AA7&label=PROFILE+VIEWS" alt="Profile views">
 
@@ -19,66 +14,25 @@
 
 <br>
 
-## 👋 About me
 
-I build **AI systems that are accountable** — where the language model reads intent and explains
-results, and deterministic code holds the middle, so a wrong answer shows up as a visible wrong
-input instead of a confident lie.
 
-- 🎓 **Bachelor's thesis:** [CityScape](https://github.com/MihaelaBogdan/CityScape) — an AI + AR urban navigation platform
-- 🔭 **Currently building:** agent pipelines that turn plain-English problems into verified decisions
-- ⚛️ **Exploring:** quantum optimisation — QAOA and QUBO, benchmarked honestly against classical solvers
-- 🛠️ **Background:** full-stack engineering — Java/Spring Boot, Angular, Android, data platforms on Azure
-- 💬 **Ask me about:** agent orchestration, structured LLM outputs, RAG pipelines, combinatorial optimisation
-- 📫 **Reach me:** [mihaelabogdan100@gmail.com](mailto:mihaelabogdan100@gmail.com)
 
----
 
-## 🏙️ Featured — CityScape
 
-> **Bachelor's thesis** · Intelligent urban navigation for Bucharest, where AI, augmented reality and
-> social discovery meet in one Android app.
 
-<table>
-<tr><td width="60%">
 
-**What it does**
-
-- 🤖 **CityScape AI** — a chatbot that recommends places from natural-language questions, powered by a fine-tuned **DistilBERT** classifier and **Gemini Flash 2.0**
-- 🗺️ **Smart itineraries** — full day plans generated automatically from your preferences and location
-- 📱 **AR Explorer** — points of interest rendered in augmented reality as you walk the city
-- 📸 **Social feed** — an Instagram-style feed where users post, react and discover places from each other
-
-</td><td width="40%">
-
-**Built with**
-
-`Android (Java)` · `Material Design 3`
-`Python` · `Flask`
-`PyTorch` · `DistilBERT`
-`Google Gemini Flash 2.0`
-`PostgreSQL` · `Supabase Auth`
-`Google Maps & Places` · `Foursquare`
-
-<a href="https://github.com/MihaelaBogdan/CityScape"><img src="https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="CityScape repository"></a>
-
-</td></tr>
-</table>
-
----
-
-## 🚀 Projects
+##  Projects
 
 | Project | What it does | Built with |
 |---|---|---|
-| 🏙️ **[CityScape](https://github.com/MihaelaBogdan/CityScape)** | *Bachelor's thesis.* AI + AR urban navigation: chatbot recommendations, smart itineraries, AR points of interest, social feed | `Android` `Java` `Flask` `PyTorch` `Gemini` `Supabase` |
-| 🧠 **Annealis** | *Decisions by agents, checked by math.* Plain English → QUBO → classical + quantum (QAOA) solvers → a decision verified against a proven optimum | `Python` `Claude API` `NumPy` `QAOA` |
-| 🔧 **Data Engineering Tool** | End-to-end platform for ETL and analytics workflows | `Python` `Streamlit` |
-| 📈 **Stock Analysis App** | Data-driven platform for real-time financial insights | `Python` |
-| 🪑 **OffiSeat** | Smart seat-booking system for hybrid offices | `Spring Boot` `Angular` `MySQL` |
-| 📋 **Kanban Board Simulator** | Real-time task flow and team collaboration platform | `JavaScript` `Spring Boot` `Angular` `OracleSQL` |
+|  **[CityScape](https://github.com/MihaelaBogdan/CityScape)** | *Bachelor's thesis.* AI + AR urban navigation: chatbot recommendations, smart itineraries, AR points of interest, social feed | `Android` `Java` `Flask` `PyTorch` `Gemini` `Supabase` |
+|  **Annealis** | *Decisions by agents, checked by math.* Plain English → QUBO → classical + quantum (QAOA) solvers → a decision verified against a proven optimum | `Python` `Claude API` `NumPy` `QAOA` |
+|  **Data Engineering Tool** | End-to-end platform for ETL and analytics workflows | `Python` `Streamlit` |
+|  **Stock Analysis App** | Data-driven platform for real-time financial insights | `Python` |
+|  **OffiSeat** | Smart seat-booking system for hybrid offices | `Spring Boot` `Angular` `MySQL` |
+|  **Kanban Board Simulator** | Real-time task flow and team collaboration platform | `JavaScript` `Spring Boot` `Angular` `OracleSQL` |
 | 💄 **M3 Glow** | Personalized beauty and skincare recommender system | `Java` `Android` |
-| 📝 **Survey App** | Dynamic platform for creating, sharing and analyzing surveys | `Java` |
+
 
 <div align="center">
 <a href="https://github.com/MihaelaBogdan?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"></a>
@@ -86,7 +40,7 @@ input instead of a confident lie.
 
 ---
 
-## 🤖 AI, LLMs & Agents
+##  AI, LLMs & Agents
 
 <div align="center">
 
@@ -133,7 +87,7 @@ input instead of a confident lie.
 
 ---
 
-## 🛠️ Engineering Stack
+##  Engineering Stack
 
 <div align="center">
 
@@ -165,7 +119,7 @@ input instead of a confident lie.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -185,7 +139,7 @@ input instead of a confident lie.
 
 <div align="center">
 
-### *The language model reads the intent. The code holds the truth.*
+
 
 </div>
 

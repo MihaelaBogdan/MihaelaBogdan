@@ -1,19 +1,171 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:4A3AA7&height=140&section=header" width="100%" alt="">
+
 <div align="center">
 
 # Mihaela Bogdan
 
+### Software engineer building AI agent systems
+
+**LLM pipelines that do real work — and check their own answers.**
+
+`AI & agents` · `mobile + AR` · `full-stack` · `quantum optimisation`
 
 <a href="https://www.linkedin.com/in/mihaela-bogdan-a558bb2b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/MihaelaBogdan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:mihaelabogdan100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<img src="https://komarev.com/ghpvc/?username=MihaelaBogdan&style=for-the-badge&color=4A3AA7&label=PROFILE+VIEWS" alt="Profile views">
 
-<img src="https://komarev.com/ghpvc/?username=MihaelaBogdan&style=flat&color=0077B5" alt="Profile views">
+</div>
+
+<br>
+
+## 👋 About me
+
+I build **AI systems that are accountable** — where the language model reads intent and explains
+results, and deterministic code holds the middle, so a wrong answer shows up as a visible wrong
+input instead of a confident lie.
+
+- 🎓 **Bachelor's thesis:** [CityScape](https://github.com/MihaelaBogdan/CityScape) — an AI + AR urban navigation platform
+- 🔭 **Currently building:** agent pipelines that turn plain-English problems into verified decisions
+- ⚛️ **Exploring:** quantum optimisation — QAOA and QUBO, benchmarked honestly against classical solvers
+- 🛠️ **Background:** full-stack engineering — Java/Spring Boot, Angular, Android, data platforms on Azure
+- 💬 **Ask me about:** agent orchestration, structured LLM outputs, RAG pipelines, combinatorial optimisation
+- 📫 **Reach me:** [mihaelabogdan100@gmail.com](mailto:mihaelabogdan100@gmail.com)
+
+---
+
+## 🏙️ Featured — CityScape
+
+> **Bachelor's thesis** · Intelligent urban navigation for Bucharest, where AI, augmented reality and
+> social discovery meet in one Android app.
+
+<table>
+<tr><td width="60%">
+
+**What it does**
+
+- 🤖 **CityScape AI** — a chatbot that recommends places from natural-language questions, powered by a fine-tuned **DistilBERT** classifier and **Gemini Flash 2.0**
+- 🗺️ **Smart itineraries** — full day plans generated automatically from your preferences and location
+- 📱 **AR Explorer** — points of interest rendered in augmented reality as you walk the city
+- 📸 **Social feed** — an Instagram-style feed where users post, react and discover places from each other
+
+</td><td width="40%">
+
+**Built with**
+
+`Android (Java)` · `Material Design 3`
+`Python` · `Flask`
+`PyTorch` · `DistilBERT`
+`Google Gemini Flash 2.0`
+`PostgreSQL` · `Supabase Auth`
+`Google Maps & Places` · `Foursquare`
+
+<a href="https://github.com/MihaelaBogdan/CityScape"><img src="https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="CityScape repository"></a>
+
+</td></tr>
+</table>
+
+---
+
+## 🚀 Projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| 🏙️ **[CityScape](https://github.com/MihaelaBogdan/CityScape)** | *Bachelor's thesis.* AI + AR urban navigation: chatbot recommendations, smart itineraries, AR points of interest, social feed | `Android` `Java` `Flask` `PyTorch` `Gemini` `Supabase` |
+| 🧠 **Annealis** | *Decisions by agents, checked by math.* Plain English → QUBO → classical + quantum (QAOA) solvers → a decision verified against a proven optimum | `Python` `Claude API` `NumPy` `QAOA` |
+| 🔧 **Data Engineering Tool** | End-to-end platform for ETL and analytics workflows | `Python` `Streamlit` |
+| 📈 **Stock Analysis App** | Data-driven platform for real-time financial insights | `Python` |
+| 🪑 **OffiSeat** | Smart seat-booking system for hybrid offices | `Spring Boot` `Angular` `MySQL` |
+| 📋 **Kanban Board Simulator** | Real-time task flow and team collaboration platform | `JavaScript` `Spring Boot` `Angular` `OracleSQL` |
+| 💄 **M3 Glow** | Personalized beauty and skincare recommender system | `Java` `Android` |
+| 📝 **Survey App** | Dynamic platform for creating, sharing and analyzing surveys | `Java` |
+
+<div align="center">
+<a href="https://github.com/MihaelaBogdan?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"></a>
+</div>
+
+---
+
+## 🤖 AI, LLMs & Agents
+
+<div align="center">
+
+![Anthropic Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+<br>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-0A0A0A?style=for-the-badge)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Patterns I build with**
+
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-4A3AA7?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-2A78D6?style=flat-square)
+![Tool Use](https://img.shields.io/badge/Tool_Use_&_Function_Calling-1BAF7A?style=flat-square)
+![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-EB6834?style=flat-square)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-EDA100?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-E87BA4?style=flat-square)
+![Evals](https://img.shields.io/badge/Evals_&_Guardrails-D03B3B?style=flat-square)
+
+**Vector search & RAG infrastructure**
+
+![FAISS](https://img.shields.io/badge/FAISS-0081FB?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+**Quantum computing**
+
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-00B1A4?style=flat-square)
+![D-Wave Ocean](https://img.shields.io/badge/D--Wave_Ocean-008CD7?style=flat-square)
+![QAOA](https://img.shields.io/badge/QAOA_&_QUBO-4A3AA7?style=flat-square)
 
 </div>
 
 ---
 
+## 🛠️ Engineering Stack
 
+<div align="center">
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=java,kotlin,python,c,cs,js,ts,dart&theme=dark)](https://skillicons.dev)
+
+**Frameworks & Libraries**
+
+[![Frameworks](https://skillicons.dev/icons?i=spring,flask,fastapi,react,angular,nodejs,express,flutter&theme=dark)](https://skillicons.dev)
+
+**Machine Learning & Data**
+
+[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark)](https://skillicons.dev)
+
+**Databases**
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase&theme=dark)](https://skillicons.dev)
+
+**Cloud & DevOps**
+
+[![Cloud](https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions,git&theme=dark)](https://skillicons.dev)
+
+**Tools**
+
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,androidstudio,postman,figma,gradle&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -31,119 +183,10 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it does | Built with |
-|---|---|---|
-|  **Annealis** | *Decisions by agents, checked by math.* Plain English → QUBO → classical + quantum solvers → a decision verified against a proven optimum | `Python` `Claude API` `NumPy` `QAOA` |
-|  **OffiSeat** | Smart seat-booking system for hybrid offices | `Spring Boot` `Angular` `MySQL` |
-|  **Data Engineering Tool** | End-to-end platform for ETL and analytics workflows | `Python` `Streamlit` |
-|  **Stock Analysis App** | Data-driven platform for real-time financial insights | `Python` |
-|  **Kanban Board Simulator** | Real-time task flow and team collaboration platform | `JavaScript` `Spring Boot` `Angular` `OracleSQL` |
-|   **M3 Glow** | Personalized beauty and skincare recommender system | `Java` `Android` |
-|  **Survey App** | Dynamic platform for creating, sharing and analyzing surveys | `Java` |
-
-<div align="center">
-<a href="https://github.com/MihaelaBogdan?tab=repositories"><img src="https://img.shields.io/badge/See_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"></a>
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 AI, LLMs & Agents
-
-![Anthropic Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-0A0A0A?style=for-the-badge)
-![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**Patterns I build with**
-
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-4A3AA7?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-2A78D6?style=flat-square)
-![Tool Use](https://img.shields.io/badge/Tool_Use_&_Function_Calling-1BAF7A?style=flat-square)
-![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-EB6834?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-E87BA4?style=flat-square)
-![Fine-tuning](https://img.shields.io/badge/Fine--tuning-EDA100?style=flat-square)
-![Evals](https://img.shields.io/badge/Evals_&_Guardrails-D03B3B?style=flat-square)
-
-### 🧠 Machine Learning & Data Science
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🔎 Vector Search & RAG Infrastructure
-
-![FAISS](https://img.shields.io/badge/FAISS-0081FB?style=for-the-badge&logo=meta&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-
-
-### 💻 Programming Languages
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🧩 Frameworks & Libraries
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ Cloud, MLOps & DevOps
-
-![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure ML](https://img.shields.io/badge/Azure_ML-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-
-
----
-
 <div align="center">
 
-
+### *The language model reads the intent. The code holds the truth.*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A3AA7,100:0077B5&height=120&section=footer" width="100%" alt="">

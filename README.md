@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/mihaela-bogdan-a558bb2b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:mihaelabogdan100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<img src="https://komarev.com/ghpvc/?username=MihaelaBogdan&style=for-the-badge&color=4A3AA7&label=PROFILE+VIEWS" alt="Profile views">
+
 
 </div>
 
@@ -31,7 +31,7 @@
 |  **Stock Analysis App** | Data-driven platform for real-time financial insights | `Python` |
 |  **OffiSeat** | Smart seat-booking system for hybrid offices | `Spring Boot` `Angular` `MySQL` |
 |  **Kanban Board Simulator** | Real-time task flow and team collaboration platform | `JavaScript` `Spring Boot` `Angular` `OracleSQL` |
-| 💄 **M3 Glow** | Personalized beauty and skincare recommender system | `Java` `Android` |
+|  **M3 Glow** | Personalized beauty and skincare recommender system | `Java` `Android` |
 
 
 <div align="center">
